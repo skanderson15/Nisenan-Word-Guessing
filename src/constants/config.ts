@@ -1,7 +1,7 @@
 export const CONFIG = {
   tries: 7, // This changes how many tries you get to finish the game
   language: 'Nisenan', // This changes the display name for your language
-  wordLength: 6, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
+  wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Skye Anderson', // Put your name here so people know who made this game!
   authorWebsite: 'Linkhere', // Put a link to your website or social media here
   wordListSource: 'YourDictionarySource', // Describe the source material for your words here

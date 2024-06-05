@@ -1,16 +1,16 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-  'sinná',
-  'lollá',
-  'sukkú',
-  'payyó',
-  'payél',
-  'hipín',
-  'beydá',
+  'sinna',
+  'lolla',
+  'sukku',
+  'payyoo',
+  'payel',
+  'hipin',
+  'beyda',
   "honk’i",
-  "tonc’í",
-  "honk’ó",
+  "tonc’i",
+  "honk’o",
 ]
 
 if (CONFIG.normalization) {
